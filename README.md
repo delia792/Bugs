@@ -81,3 +81,28 @@ When you press on “Arhitect șef” from https://www.primariatechirghiol.ro/fo
 When you press on “Arhitect șef” from https://www.primariatechirghiol.ro/formulare (https://www.primariatechirghiol.ro/formulare/arhitect-ef)  a new page opens with message Error 404 - Not Found. 
 
 ----------------- 
+## Image is not loading 
+
+**Priority & Severity**
+
+P5 – Low  
+
+**Description** 
+When you open the page, first picture located in the upper right corner is not loading. 
+
+**Steps to reproduce**
+1. Go to https://www.globalsqa.com/angularJs-protractor/ConsumptionCalculator/  
+2. Picture located in the upper right corner is not loading.  
+
+**Expected result**
+
+On you go on  https://www.globalsqa.com/angularJs-protractor/ConsumptionCalculator/ one photo must be displayed in the upper right corner. 
+
+**Actual result** 
+
+On you go on  https://www.globalsqa.com/angularJs-protractor/ConsumptionCalculator/ the photo in the upper right corner is not displayed. 
+
+
+### Bug Image 
+
+![bug sample](C:\Users\Cristian Z\OneDrive\Imagini\Capturi de ecran\Screenshot 2024-10-12 201452.png) 
