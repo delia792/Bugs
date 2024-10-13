@@ -139,4 +139,7 @@ password - parola
 
 ### Bug Image 
 
-![bug sample](https://github.com/delia792/images/blob/main/Screenshot%202024-10-12%20201452.png?raw=true) 
+![bug sample](https://github.com/delia792/images/blob/main/Screenshot%202024-10-12%20203705.png?raw=true)
+
+![bug sample](https://github.com/delia792/images/blob/main/Screenshot%202024-10-12%20203729.png?raw=true) 
+
