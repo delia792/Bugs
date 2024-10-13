@@ -105,7 +105,8 @@ On you go on  https://www.globalsqa.com/angularJs-protractor/ConsumptionCalculat
 
 ### Bug Image 
 
-![bug sample](https://github.com/delia792/images/blob/main/Screenshot%202024-10-12%20201452.png?raw=true) 
+
+![Screenshot 2024-10-12 201452](https://github.com/user-attachments/assets/6fde94f0-2539-4875-97b3-7430d315633f)
 
 ----------------- 
 ## "Forgot password" option doesn't exist 
@@ -139,7 +140,7 @@ password - parola
 
 ### Bug Image 
 
-![bug sample](https://github.com/delia792/images/blob/main/Screenshot%202024-10-12%20203705.png?raw=true)
+![Screenshot 2024-10-12 203729](https://github.com/user-attachments/assets/a6ade2fb-c44e-4274-8f98-8f06dcff8c1b)
 
-![bug sample](https://github.com/delia792/images/blob/main/Screenshot%202024-10-12%20203729.png?raw=true) 
 
+![Screenshot 2024-10-12 203705](https://github.com/user-attachments/assets/07f83ec3-5504-474c-9094-95de9ae6b35e)
