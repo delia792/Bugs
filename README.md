@@ -106,3 +106,37 @@ On you go on  https://www.globalsqa.com/angularJs-protractor/ConsumptionCalculat
 ### Bug Image 
 
 ![bug sample](https://github.com/delia792/images/blob/main/Screenshot%202024-10-12%20201452.png?raw=true) 
+
+----------------- 
+## "Forgot password" option doesn't exist 
+
+**Priority & Severity**
+
+P1 – High   
+
+**Description** 
+When you try to login in user account and you forgot your username and/or your password, you don’t have the option to reset it using Forgot password link.  
+
+**Steps to reproduce**
+1. Go to https://www.demoblaze.com; 
+2. Press on “Log in” button;
+3. Try to login with wrong username and/or password;
+4. User doesn’t have the option to change username and/or password in order to login. 
+
+**Expected result**
+
+On the login page there should be a link with “Forgot password”.  
+
+**Actual result** 
+
+On the login page is not a link with “Forgot password”. 
+
+**Test data** 
+
+username - deliamarinapavel@yahoo.com
+
+password - parola 
+
+### Bug Image 
+
+![bug sample](https://github.com/delia792/images/blob/main/Screenshot%202024-10-12%20201452.png?raw=true) 
