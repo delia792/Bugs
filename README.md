@@ -31,8 +31,7 @@ No quantity field is present on the product page. Users can only add a single un
 
 ### Bug Image 
 
-![bug sample](htt![Screenshot 2024-10-12 192540](https://github.com/user-attachments/assets/3f1734f3-0054-453a-93a7-6f775a974b53)
-ps://imgur.com/a/fDKZjyI) 
+![bug sample](https://github.com/user-attachments/assets/3f1734f3-0054-453a-93a7-6f775a974b53)
 
 ----------------- 
 
