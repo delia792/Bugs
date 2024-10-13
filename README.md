@@ -105,4 +105,4 @@ On you go on  https://www.globalsqa.com/angularJs-protractor/ConsumptionCalculat
 
 ### Bug Image 
 
-![bug sample](C:\Users\Cristian Z\OneDrive\Imagini\Capturi de ecran\Screenshot 2024-10-12 201452.png) 
+![bug sample](https://github.com/delia792/images/blob/main/Screenshot%202024-10-12%20201452.png?raw=true) 
